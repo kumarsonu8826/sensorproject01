@@ -8,8 +8,10 @@ MANGO_COLLECTION_NAME = "waferfault"
 
 
 TARGET_COLLUMN= "quality"
-MANGO_DB_URL = "mongodb+srv://snshrivas:Snshrivas@cluster0.u6c4.mongodb.net/?retryWrites=true&w=majority"
+MANGO_DB_URL = "mongodb+srv://sonu:1234@cluster0.eslvl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 
 MODEL_FILE_NAME= 'model'
 MODEL_FILE_EXTENSION= ".pkl"
+
+artifact_folder = "artifacts"
